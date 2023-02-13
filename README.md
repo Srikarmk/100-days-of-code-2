@@ -2,5 +2,5 @@
 
 ## A log of my 30 Days of Web3 Challenge !!
 
-## Day 1 -> 11th Feb 2023
+## Day 1 -> 13th Feb 2023
 
