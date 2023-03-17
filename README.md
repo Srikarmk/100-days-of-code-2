@@ -1,4 +1,4 @@
-# 30-days-of-web3
+# 100 Days of code X 100 Days of Web 3 
 
 ## A log of my 30 Days of Web3 Challenge !!
 
