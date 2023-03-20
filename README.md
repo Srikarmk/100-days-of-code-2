@@ -2,5 +2,10 @@
 
 ## A log of my 30 Days of Web3 Challenge !!
 
-## Day 1 -> 17th March 2023
+## Day 1 -> 18th March 2023
+✅ Completed JavaScript Mastery Course.  
+✅ Started DSA with Arrays and practiced 3 basic questions .  
+✅ Done with 50% of @LearnWeb3DAO Freshman track.   
+
+Reminder : Just sit and start stuff 🫡.
 
