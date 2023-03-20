@@ -9,3 +9,9 @@
 
 Reminder : Just sit and start stuff 🫡.
 
+## Day 2 
+✅ Started a mini react course.   
+✅ Started revising css   
+✅ Exploring about @ethereum and EVM .  
+
+Was a pretty slow day but continuing learning 🫡.
