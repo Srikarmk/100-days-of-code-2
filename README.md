@@ -9,14 +9,14 @@
 
 Reminder : Just sit and start stuff 🫡.
 
-## Day 2 
+## Day 2 -> 19/3
 ✅ Started a mini react course.   
 ✅ Started revising css   
 ✅ Exploring about @ethereum and EVM .  
 
 Was a pretty slow day but continuing learning 🫡.
 
-## Day 3 of #100daysofcode w/@LearnWeb3DAO
+## Day 3 -> 22/3
  
 ✅ Explored EVM  
 ✅ Completed 3 array questions from DSA sheet  
