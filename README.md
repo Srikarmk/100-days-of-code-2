@@ -15,3 +15,13 @@ Reminder : Just sit and start stuff 🫡.
 ✅ Exploring about @ethereum and EVM .  
 
 Was a pretty slow day but continuing learning 🫡.
+
+## Day 3 of #100daysofcode w/@LearnWeb3DAO
+ 
+✅ Explored EVM  
+✅ Completed 3 array questions from DSA sheet  
+✅ Continuing @LearnWeb3DAO Freshman track.  
+
+Getting busy due to festivals and events .. 4 more days to freedom 😩.  
+
+
