@@ -24,4 +24,11 @@ Was a pretty slow day but continuing learning 🫡.
 
 Getting busy due to festivals and events .. 4 more days to freedom 😩.  
 
+## Day 4 -> 10/4
+
+✅ Practicing Js by building 30 projects (https://github.com/Srikarmk/Javascript-30)  
+✅ Completed Solidity section from LW3DAO Freshman  
+✅ Started a React project   
+
+Resuming this challenge after a long time 🥲  
 
