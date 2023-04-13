@@ -32,3 +32,11 @@ Getting busy due to festivals and events .. 4 more days to freedom 😩.
 
 Resuming this challenge after a long time 🥲  
 
+## Day 5 -> 12/4
+
+✅ Finished a react project - https://indian-foodie-palace.netlify.app   
+✅ Progressing with LW3DAO freshman and making a project    
+✅Covered DBMS theory  
+
+Tired today and in recovery mode rn 🥲
+
