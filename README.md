@@ -40,3 +40,10 @@ Resuming this challenge after a long time 🥲
 
 Tired today and in recovery mode rn 🥲
 
+## Day 6 -> 15/4 
+
+✅ Finished Mood Diary project from LW3DAO  
+✅ Started C++ and finished all the basics   
+✅ Progressing with Hooks in react  
+
+
