@@ -46,4 +46,11 @@ Tired today and in recovery mode rn 🥲
 ✅ Started C++ and finished all the basics   
 ✅ Progressing with Hooks in react  
 
+## Day 7
+ 
+✅ Learnt about useState hook and props in react   
+✅ Started working on a MERN project ( frontend in progress for now)  
+✅ Started working on ERC-20 token project.  
+
+Need to be consistent again 🥲
 
