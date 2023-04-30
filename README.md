@@ -54,3 +54,12 @@ Tired today and in recovery mode rn 🥲
 
 Need to be consistent again 🥲
 
+## Day 8
+  
+✅ Continued working on the frontend of my MERN project  
+✅ Gave a GFG contest  
+
+Glad that the basic page is finished for today , will be exploring backend from tomorrow using Node and Express.
+
+
+
