@@ -61,5 +61,11 @@ Need to be consistent again 🥲
 
 Glad that the basic page is finished for today , will be exploring backend from tomorrow using Node and Express.
 
+## Day 9   
+
+✅ Explored react router Dom package and improved the navbar and added login and cart sections   
+✅ Explored different ERC tokens   
+
+Worked a bit harder on improving frontend , will be starting backend tommorow 🫡.  
 
 
