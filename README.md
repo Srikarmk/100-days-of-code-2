@@ -68,4 +68,8 @@ Glad that the basic page is finished for today , will be exploring backend from 
 
 Worked a bit harder on improving frontend , will be starting backend tommorow 🫡.  
 
+## Day 10 
+  
+✅ Started learning backend with Node JS .  
+✅ Tried hosting MySQL database on an online server .  
 
