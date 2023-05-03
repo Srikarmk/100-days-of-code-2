@@ -73,7 +73,7 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
 ✅ Started learning backend with Node JS .  
 ✅ Tried hosting MySQL database on an online server .  
 
-## Day 11 
+## Day 12 
   
 ✅ Made API's using Express for a project.  
 ✅ Learnt about Axios and connected the database to frontend via an Api.  
