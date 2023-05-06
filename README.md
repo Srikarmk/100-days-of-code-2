@@ -83,4 +83,7 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
 ✅ Made API's using Express for a project.  
 ✅ Learnt about Axios and connected the database to frontend via an Api.  
 
-## Day 13
+## Day 13  
+  
+✅ Learnt how to send back status codes via database and express.   
+✅ Started learning about Local storage to implement login functionality in React.  
