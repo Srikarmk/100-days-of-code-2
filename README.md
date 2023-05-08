@@ -87,3 +87,8 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
   
 ✅ Learnt how to send back status codes via database and express.   
 ✅ Started learning about Local storage to implement login functionality in React.  
+
+## Day 14 
+  
+✅ Created authentication for my project using localstorage and express js .  
+✅ Worked on improving cart functionality.  
