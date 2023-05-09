@@ -92,3 +92,8 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
   
 ✅ Created authentication for my project using localstorage and express js .  
 ✅ Worked on improving cart functionality.  
+
+## Day 15 
+  
+✅ Created API's for accessing data from MySQL database .  
+✅ Added a seller section and adding the final details is the only thing left .  
