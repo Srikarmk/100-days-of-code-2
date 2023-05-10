@@ -97,3 +97,8 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
   
 ✅ Created API's for accessing data from MySQL database .  
 ✅ Added a seller section and adding the final details is the only thing left .  
+
+## Day 16
+  
+✅ Finally completed working on my full stack web app and tested it's features.  
+✅ Started exploring React Native as an interest.  
