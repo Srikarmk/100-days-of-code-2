@@ -102,3 +102,6 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
   
 ✅ Finally completed working on my full stack web app and tested it's features.  
 ✅ Started exploring React Native as an interest.  
+
+## Day 17   
+✅ Started exploring supabase and started a new project called Supa Smoothies .
