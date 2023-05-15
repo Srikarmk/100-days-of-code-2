@@ -105,3 +105,7 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
 
 ## Day 17   
 ✅ Started exploring supabase and started a new project called Supa Smoothies .
+
+## Day 18 
+✅ Continued Supa Smoothies project.   
+✅ Started Computer Networking course by @kunalstwt.  
