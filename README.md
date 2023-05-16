@@ -109,3 +109,5 @@ Worked a bit harder on improving frontend , will be starting backend tommorow �
 ## Day 18 
 ✅ Continued Supa Smoothies project.   
 ✅ Started Computer Networking course by @kunalstwt.  
+
+## Day 19
